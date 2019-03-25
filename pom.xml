@@ -34,8 +34,8 @@
         <deployment.suffix>${user.name}</deployment.suffix>
         <deployment.env>-${env}</deployment.env>
 
-        <org>sidgs</org>
-        <env>dev</env>
+        <org>praveens-3ea4f84f-eval</org>
+        <env>test</env>
 
         <apigee.api.protocol>https</apigee.api.protocol>
         <apigee.api.host>api.enterprise.apigee.com</apigee.api.host>
