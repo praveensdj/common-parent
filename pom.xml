@@ -52,8 +52,8 @@
 
         <commit>${user.name}-local</commit>
         <branch>${user.name}-local</branch>
-        <!--<repo.server.protocol>https</repo.server.protocol>-->
-        <!--<repo.server.root>maven.firstcomp.com</repo.server.root>-->
+        <repo.server.protocol>https</repo.server.protocol>
+        <repo.server.root>maven.firstcomp.com</repo.server.root>
         <repo.path />
         <repo.name>apigee-</repo.name>
 
